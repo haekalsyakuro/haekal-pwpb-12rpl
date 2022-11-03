@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(161, 1, 1);
+}
+
+.back-img{
+    background-image: url("../rick-and-morty-cartoon-adult-swim-minimalism-wallpaper-preview.jpg");
+    width: 600px;
+    height: 500px;
+}
+
+.posisi{
+    background-image: url("../rick-and-morty-cartoon-adult-swim-minimalism-wallpaper-preview.jpg");
+    width: 700px;
+    height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
