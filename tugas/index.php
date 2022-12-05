@@ -17,7 +17,7 @@ class jp1
     }
     function muridd()
     {
-        return " kita adalah hasan";
+        return " kita adalah haekal";
     }
 }
 

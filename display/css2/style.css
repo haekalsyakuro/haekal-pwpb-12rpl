@@ -1,0 +1,25 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.header {
+    background-color: coral;
+    color: white;
+};
+.header h1{}
+
+.main {
+    background-color: orange;
+   
+}
+.main h2{}
+.main p{}
+.main p span{
+    color: red;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+}

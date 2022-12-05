@@ -1,0 +1,45 @@
+body{
+    background-color: pink;
+}
+.wrapper{
+    background-color:black;
+    width: 1200px;
+    height: 100%;
+}
+
+
+.box-1{
+    width: 250px;
+    height: 250px;
+    background-color: red;
+    /* untuk penulisan value ada 2 : 1. x y
+    2. atas,kanan bawah kiri */
+    margin: 30px auto;
+}
+
+.box-2{
+    width: 200px;
+    height: 250px;
+    background-color: yellow;
+   /* untuk penulisan value ada 2 : 1. x y
+    2. atas,kanan bawah kiri */
+    /* hanya margin yang bolegh minus */
+    padding-left:100px ;
+    padding-right: 100px;
+
+
+}
+.box-3{
+    width: 250px;
+    height: 250px;
+    background-color: green;
+   /* untuk penulisan value ada 2 : 1. x y
+    2. atas,kanan bawah kiri */
+   margin: 30px auto;
+   border-top: 8px solid pink;
+   border-bottom: 8px dashed blue;
+   border-right: 8px dotted yellow  ;
+   border-left: 8px double purple;
+
+
+}
